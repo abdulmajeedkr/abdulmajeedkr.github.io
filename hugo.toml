@@ -2,3 +2,6 @@ baseURL = 'https://abdulmajeedkr.github.io/'
 languageCode = 'en-us'
 title = "Abdulmajeed's Website"
 theme = "ananke"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
