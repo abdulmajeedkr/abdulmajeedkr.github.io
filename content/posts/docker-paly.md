@@ -1,6 +1,5 @@
 +++
 date = '2025-08-23T17:11:41+03:00'
-draft = true
 title = 'Docker Paly'
 +++
 
