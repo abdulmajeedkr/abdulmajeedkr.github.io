@@ -4,6 +4,8 @@ title = 'My First Post'
 +++
 this is my first ever hugo post
 
-# test
+# My First Post
 
-    this is code
+### this is my first post ever 
+
+    This is code
